@@ -9,7 +9,7 @@
 ### 🚀 Sobre mim  
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, interessado em tecnologia e inovação.  
 Gosto de resolver problemas, aprender novas linguagens e entender como os sistemas se conectam.  
-Atualmente estou aprendendo **Python**, **SQL** e **Power BI**, explorando o mundo do **desenvolvimento de software** e aprimorando minhas habilidades técnicas.
+Atualmente estou aprendendo **Java**, e , **SQL**, explorando o mundo do **desenvolvimento de software** e aprimorando minhas habilidades técnicas.
 
 ---
 
